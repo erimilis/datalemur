@@ -1,9 +1,7 @@
 # 🚀 My SQL Portfolio
 ### DataLemur Challenge Solutions
 
-This repository contains a collection of solutions I've completed to SQL challenges on [DataLemur](https://datalemur.com/).
-
-The purpose of this repository is to serve as a portfolio of my skills in solving business problems using advanced query techniques.
+This repository contains my personal solutions to various DataLemur challenges, implemented in **PostgreSQL**, and **Python**. It serves as a record of my problem-solving journey and a reference for different algorithmic approaches.
 
 ---
 ![profile](img/profile_ss.png)
