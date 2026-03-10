@@ -6,12 +6,9 @@ This repository contains a collection of solutions I've completed to SQL challen
 The purpose of this repository is to serve as a portfolio of my skills in solving business problems using advanced query techniques.
 
 ---
+![profile](img/profile_ss.png)
 
-
-
-[My LinkedIn Link](https://id.linkedin.com/in/eriyawan)
-[My Profile on HackerRank](https://www.hackerrank.com/profile/erimilis)
-[My Profile on Leetcode](https://leetcode.com/u/erimilis)
+#### My profile link: [LinkedIn](https://id.linkedin.com/in/eriyawan) | [HackerRank](https://www.hackerrank.com/profile/erimilis) | [Leetcode](https://leetcode.com/u/erimilis)
 ---
 
 ## 🔴 Hard Challenges
@@ -26,13 +23,13 @@ The purpose of this repository is to serve as a portfolio of my skills in solvin
 * **Topic:** Self-Join, Time-Series Analysis
 * **Description:** Detects repeat transactions (same amount & merchant) within a time span of < 10 minutes.
 * **Approach:** CTE, EXTRACT(EPOCH FROM ...) filtering.
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/repeated-payments)
+* **Links:** [Solustion Link](hard/repeated-payments.md) | [Problem Link](https://datalemur.com/questions/repeated-payments)
 
 ### 3. Reactivated Users
 * **Topic:** User Retention, Month-over-Month Analysis
 * **Description:** Counts the number of users who returned to activity after a period of inactivity.
 * **Approach:** CTE, LAG(), mapping.
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/reactivated-users)
+* **Links:** [Solustion Link](hard/reactivated-users.md) | [Problem Link](https://datalemur.com/questions/reactivated-users)
 
 ---
 
@@ -42,13 +39,13 @@ The purpose of this repository is to serve as a portfolio of my skills in solvin
 * **Topic:** Ranking, Aggregations
 * **Description:** Find the 2 highest-grossing products per category in a given year..
 * **Approach:** `RANK()` atau `DENSE_RANK()` di dalam CTE.
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/sql-highest-grossing)
+* **Links:** [Solustion Link](medium/sql-highest-grossing.md) | [Problem Link](https://datalemur.com/questions/sql-highest-grossing)
 
 ### 2. Top Three Salaries
 * **Topic:** Window Functions
 * **Description:** Displays the top 3 unique salaries per department.
 * **Approach:** `DENSE_RANK()` untuk menangani nilai gaji yang identik.
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/sql-top-three-salaries)
+* **Links:** [Solustion Link](medium/sql-top-three-salaries.md) | [Problem Link](https://datalemur.com/questions/sql-top-three-salaries)
 
 ---
 
@@ -58,13 +55,13 @@ The purpose of this repository is to serve as a portfolio of my skills in solvin
 * **Topic:** Basic Aggregation
 * **Description:** Create a distribution of the number of tweets sent by users in 2022.
 * **Approach:** Double `GROUP BY` (Nested Aggregation).
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/sql-histogram-tweets)
+* **Links:** [Solustion Link](easy/sql-histogram-tweets) | [Problem Link](https://datalemur.com/questions/sql-histogram-tweets)
 
 ### 2. Contains Duplicates (Python)
 * **Topic:** Array & Hash Set Logic
 * **Description:** Checks whether there are duplicate values ​​in the list.
 * **Approach:** Comparing list length and set length.
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/python-contains-duplicate)
+* **Links:** [Solustion Link](easy/python-contains-duplicate) | [Problem Link](https://datalemur.com/questions/python-contains-duplicate)
 
 ---
 
