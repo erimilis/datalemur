@@ -20,7 +20,7 @@ The purpose of this repository is to serve as a portfolio of my skills in solvin
 * **Topic:** Gaps and Islands, Data Analytics
 * **Description:** Identify users who have completed document submissions for 3 consecutive years.
 * **Approach:** CTE, LEAD(), LAG(), atau ROW_NUMBER(), date subtraction.
-* **Links:** [Solustion Link](https://datalemur.com/questions/consecutive-filing-years) | [Problem Link](https://datalemur.com/questions/consecutive-filing-years)
+* **Links:** [Solustion Link](hard/consecutive-filing-years.md) | [Problem Link](https://datalemur.com/questions/consecutive-filing-years)
 
 ### 2. Repeated Payments
 * **Topic:** Self-Join, Time-Series Analysis
