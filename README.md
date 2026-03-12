@@ -6,7 +6,7 @@ This repository contains my personal solutions to various DataLemur challenges, 
 ---
 ![profile](img/profile_ss.png)
 
-#### My profile link: [LinkedIn](https://id.linkedin.com/in/eriyawan) | [HackerRank](https://www.hackerrank.com/profile/erimilis) | [Leetcode](https://leetcode.com/u/erimilis)
+My profile link: [LinkedIn](https://id.linkedin.com/in/eriyawan) | [HackerRank](https://www.hackerrank.com/profile/erimilis) | [Leetcode](https://leetcode.com/u/erimilis)
 ---
 
 ## 🔴 Hard Challenges
@@ -28,6 +28,18 @@ This repository contains my personal solutions to various DataLemur challenges, 
 * **Description:** Counts the number of users who returned to activity after a period of inactivity.
 * **Approach:** CTE, LAG(), mapping.
 * **Links:** [Solustion Link](hard/reactivated-users.md) | [Problem Link](https://datalemur.com/questions/reactivated-users)
+
+### 4. Median Google Search Frequency
+* **Topic:** Frequency, Statistic
+* **Description:** Find median from a search frequency table.
+* **Approach:** CTE, WINDOW.
+* **Links:** [Solustion Link](hard/median-search-freq.md) | [Problem Link](https://datalemur.com/questions/median-search-freq)
+
+### 5. Server Utilization Time
+* **Topic:** Frequency, Statistic
+* **Description:** Find server utilization from a status session table.
+* **Approach:** CTE, WINDOW. EXTRACT(DAY, HOUR)
+* **Links:** [Solustion Link](hard/total-utilization-time.md) | [Problem Link](https://datalemur.com/questions/total-utilization-time)
 
 ---
 
