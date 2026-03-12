@@ -27,19 +27,19 @@ My profile link: [LinkedIn](https://id.linkedin.com/in/eriyawan) | [HackerRank](
 * **Topic:** User Retention, Month-over-Month Analysis
 * **Description:** Counts the number of users who returned to activity after a period of inactivity.
 * **Approach:** CTE, LAG(), mapping.
-* **Links:** [Solustion Link](hard/reactivated-users.md) | [Problem Link](https://datalemur.com/questions/reactivated-users){:target="_blank"}
+* **Links:** [Solustion Link](hard/reactivated-users.md) | [Problem Link](https://datalemur.com/questions/reactivated-users)
 
 ### 4. Median Google Search Frequency
 * **Topic:** Frequency, Statistic
 * **Description:** Find median from a search frequency table.
 * **Approach:** CTE, WINDOW.
-* **Links:** [Solustion Link](hard/median-search-freq.md) | [Problem Link](https://datalemur.com/questions/median-search-freq){:target="_blank"}
+* **Links:** [Solustion Link](hard/median-search-freq.md) | [Problem Link](https://datalemur.com/questions/median-search-freq)
 
 ### 5. Server Utilization Time
 * **Topic:** Frequency, Statistic
 * **Description:** Find server utilization from a status session table.
 * **Approach:** CTE, WINDOW. EXTRACT(DAY, HOUR)
-* **Links:** [Solustion Link](hard/total-utilization-time.md) | [Problem Link](https://datalemur.com/questions/total-utilization-time){:target="_blank"}
+* **Links:** [Solustion Link](hard/total-utilization-time.md) | [Problem Link](https://datalemur.com/questions/total-utilization-time)
 
 ---
 
